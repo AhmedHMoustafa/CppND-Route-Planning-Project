@@ -1,6 +1,7 @@
 # A* Search Route Planning Project
 
-This repo contains the code for an A* Search Route Planning project implemented on C++. It uses map data from the OpenStreetMap project.
+This repo contains the code for an A* Search Route Planning project implemented on C++ for the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). It uses map data from the OpenStreetMap project.
+
 
 <img src="map.png" width="600" height="450" />
 
